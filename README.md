@@ -13,7 +13,7 @@ A basic HTML & CSS project showcasing seven superheroes. Click the link under ea
 
 ## How To Use
 
-1. Open `index.html` in a web browser.  
+1. Open `superhero project.html` in a web browser.  
 2. Click on any superhero link to be taken to their Wikipedia article.
 
 ---
